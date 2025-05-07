@@ -2,7 +2,7 @@ This repository contains a single utility OpMode for playing sounds from a Robot
 
 # Robot Sounds Competition
 
-FIRST is looking to retire the Star Wars sounds that the SDK currently uses to indicate system status.  We decided that it would be fun to replace them with a set of community generated sounds.  So, FIRST is offering FTC teams the opportunity to create and submit a set of 5 replacement system sounds.
+*FIRST* Tech Challenge is seeking fresh, community-inspired sound effects to replace the Star Wars-themed system status sound effects currently used in the *FIRST* Tech Challenge SDK since the 2019-2020 SKYSTONE season. We invite teams to participate in shaping the future of the *FIRST* Tech Challenge experience by designing and submitting a collection of five distinct replacement sounds. This is your chance to contribute creatively to the program! 
 
 The 5 status sounds that need to be replaced are:
 
@@ -17,7 +17,7 @@ As always, there are some requirements and some guidelines.
 ## Requirements
 
  - All submissions must be completely original and not contain any copyrighted elements.
- - FIRST must be assigned full rights to use these sounds. Credit will be given to the submitting team on the app’s About page.
+ - *FIRST* must be assigned full rights to use these sounds. Credit will be given to the submitting team on the app’s About page.
  - Sounds may not contain any spoken words
  - Sounds may combine live recordings with digitally generated elements.
  - All 5 sounds must be included, and the base file names must be “running”, “connect”, “disconnect”, “warning” and “error”.
